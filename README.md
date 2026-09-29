@@ -44,6 +44,8 @@
 - https://pactai.org/resources-news/an-ai-evaluator-is-not-an-auditor
 - https://aievaluatorforum.org/initiatives/embedded-evaluation-letter
 - https://algorithmicbiaslab.substack.com/p/what-getting-ready-for-an-ai-assurance?r=5z70&utm_medium=ios
+- Starter Kit for Testing LLM-Based Applications for Safety and Reliability: https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/large-language-model-starter-kit.pdf
+- https://aiverifyfoundation.sg/tools/ai-verify-toolkit/
 
 2. Lab Accountability
 - https://coefficientgiving.org/tailwind/initiatives/#frontier-lab-accountability
