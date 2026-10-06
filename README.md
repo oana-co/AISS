@@ -11,6 +11,7 @@
 - https://www.andriushchenko.me/
 - KI Allianz Baden-Württemberg, kontakt@ki-allianz.de, https://ki-allianz.de/kontakt/
 - David Fischer, Founder @ Zug 37, https://www.linkedin.com/in/david-fischer-33944a215
+- https://voices-of-ai.com/
 
 ## Potential Funding Sources: 
 - https://middlepowers.ai/
